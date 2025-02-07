@@ -1,1 +1,5 @@
-# sx5
+coverage:
+    status:
+        project:
+            default:
+                target: 70%
